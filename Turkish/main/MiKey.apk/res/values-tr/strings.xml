@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="action_capture_video">Video</string>
+  <string name="action_capture_video">Video </string>
   <string name="action_clear_call_list">Çağrı günlüklerini sil</string>
   <string name="action_clear_memory">Hafızayı temizle</string>
   <string name="action_clear_sms_inbox">Mesajları sil</string>
@@ -8,16 +8,16 @@
   <string name="action_home">Geri</string>
   <string name="action_kuaidi">Hızlı taxi</string>
   <string name="action_lock_screen">Ekranı kilitle</string>
-  <string name="action_open_camera">Kamera</string>
+  <string name="action_open_camera">Kamerayı aç</string>
   <string name="action_open_camera2">Fotoğraf çek</string>
   <string name="action_open_camera360_capture">Camera360 kamera efektleri</string>
   <string name="action_open_camera360_edit">Camera360 resim düzenleme</string>
-  <string name="action_open_flashlight">Flaş</string>
+  <string name="action_open_flashlight">Flaşı aç</string>
   <string name="action_open_mi_route">Cihaz listesi</string>
   <string name="action_open_or_close_motion">Ekranı döndür</string>
-  <string name="action_open_other_app">Uygulama</string>
-  <string name="action_open_sound_recorder">Kaydedici</string>
-  <string name="action_open_wechat">WeChat</string>
+  <string name="action_open_other_app">Diğer Uygulama aç</string>
+  <string name="action_open_sound_recorder">Ses Kaydedici aç</string>
+  <string name="action_open_wechat">WeChat aç</string>
   <string name="action_phone">Çağrı</string>
   <string name="action_qrcode">QR kodu</string>
   <string name="action_screen_shot">Ekran görüntüsü</string>
@@ -34,16 +34,16 @@
   <string name="address">Adres:</string>
   <string name="app_name">MiKey</string>
   <string name="app_not_installed">Uygulama yüklü değil</string>
-  <string name="back_camera">Arka kaera</string>
+  <string name="back_camera">Arka kamera</string>
   <string name="birthday">Doğum günü:</string>
   <string name="call_to">Çağrı</string>
   <string name="cancel">İptal</string>
-  <string name="category_app">UYgulama</string>
+  <string name="category_app">Uygulama</string>
   <string name="category_system_settings">Sistem ayarları</string>
   <string name="chooser_dust_cap">MiKey (Toz modu)</string>
   <string name="clean_memory">Hafıza temizlendi</string>
   <string name="click_to_open">Aç</string>
-  <string name="close_all">Çıkış</string>
+  <string name="close_all">Hepsini kapat</string>
   <string name="close_flash_error">Flaş ışığı kapatılamadı!</string>
   <string name="close_recorder">Kaydediciden çık</string>
   <string name="cn_0">0</string>
